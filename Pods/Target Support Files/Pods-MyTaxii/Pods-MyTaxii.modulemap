@@ -1,0 +1,6 @@
+framework module Pods_MyTaxii {
+  umbrella header "Pods-MyTaxii-umbrella.h"
+
+  export *
+  module * { export * }
+}
